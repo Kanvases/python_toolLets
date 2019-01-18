@@ -11,3 +11,4 @@ numpy install wxpy
 $ KeepLooking.py /path/to/your/final/result.txt 60
 ```
 表示每60秒检测一次`result.txt`是否存在。默认为10。
+运行后需要扫码登录微信。
